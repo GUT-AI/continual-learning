@@ -27,7 +27,6 @@ Intra-Agent Transfer Learning in RL
 
 - `A Survey on Transfer Learning for Multiagent Reinforcement Learning Systems <https://jair.org/index.php/jair/article/view/11396>`_
 
-
 Explainable AI (XAI)
 --------------------
 
@@ -41,3 +40,19 @@ Causal Learning
 
 Meta Learning
 -------------
+
+**2018**
+
+- `Meta-Learning: A Survey <https://arxiv.org/pdf/1810.03548.pdf>`_
+
+**2020**
+
+- `A Comprehensive Overview and Survey of Recent Advances in Meta-Learning <https://arxiv.org/pdf/2004.11149.pdf>`_
+
+**2021**
+
+- `A survey of deep meta‑learning <https://link.springer.com/content/pdf/10.1007/s10462-021-10004-4.pdf>`_
+
+**2022**
+
+- `Meta-Learning in Neural Networks: A Survey <https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9428530>`_
