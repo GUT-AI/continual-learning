@@ -16,9 +16,25 @@ References
 Automated Model Retraining
 --------------------------
 
+**2018**
+
+- `Reinforced Continual Learning <https://arxiv.org/pdf/1805.12369.pdf>`_
+
 **2019**
 
 - `Continual learning with hypernetworks <https://arxiv.org/pdf/1906.00695.pdf>`_
+- `Continual Lifelong Learning with Neural Networks: A Review <https://arxiv.org/pdf/1802.07569.pdf>`_
+- `Continual Learning with Neural Networks: A Review <https://www.cse.iitb.ac.in/~awasthi/pdf/continual_learning_short_survey_2019.pdf>`_
+
+**2020**
+
+- `Embracing Change: Continual Learning in Deep Neural Networks <https://www.cell.com/trends/cognitive-sciences/pdf/S1364-6613(20)30219-9.pdf>`_
+- `Continual Lifelong Learning in Natural Language Processing: A Survey <https://arxiv.org/pdf/2012.09823.pdf>`_
+
+**2021**
+
+- `Recent Advances of Continual Learning in Computer Vision: An Overview <https://arxiv.org/pdf/2109.11369.pdf>`_
+- `A continual learning survey: Defying forgetting in classification tasks <https://arxiv.org/pdf/1909.08383.pdf>`_
 
 Intra-Agent Transfer Learning in RL
 -----------------------------------
