@@ -67,3 +67,7 @@ Transfer Learning
 **2016**
 
 - `A survey of transfer learning <https://journalofbigdata.springeropen.com/counter/pdf/10.1186/s40537-016-0043-6.pdf>`_
+
+**2019**
+
+- `A Comprehensive Survey on Transfer Learning <https://arxiv.org/pdf/1911.02685.pdf>`_
