@@ -23,9 +23,17 @@ Automated Model Retraining
 Intra-Agent Transfer Learning in RL
 -----------------------------------
 
+**2009**
+
+- `Transfer Learning for Reinforcement Learning Domains: A Survey <https://www.jmlr.org/papers/volume10/taylor09a/taylor09a.pdf>`_
+
 **2019**
 
 - `A Survey on Transfer Learning for Multiagent Reinforcement Learning Systems <https://jair.org/index.php/jair/article/view/11396>`_
+
+**2020**
+
+- `Transfer Learning in Deep Reinforcement Learning: A Survey <https://arxiv.org/pdf/2009.07888.pdf>`_
 
 Explainable AI (XAI)
 --------------------
