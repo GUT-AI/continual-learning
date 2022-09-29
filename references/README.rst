@@ -16,6 +16,10 @@ References
 Automated Model Retraining
 --------------------------
 
+**2019**
+
+- `Continual learning with hypernetworks <https://arxiv.org/pdf/1906.00695.pdf>`_
+
 Intra-Agent Transfer Learning in RL
 -----------------------------------
 
