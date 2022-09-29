@@ -56,3 +56,14 @@ Meta Learning
 **2022**
 
 - `Meta-Learning in Neural Networks: A Survey <https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9428530>`_
+
+Transfer Learning
+-----------------
+
+**2009**
+
+- `A Survey on Transfer Learning <https://www.cse.ust.hk/~qyang/Docs/2009/tkde_transfer_learning.pdf>`_
+
+**2016**
+
+- `A survey of transfer learning <https://journalofbigdata.springeropen.com/counter/pdf/10.1186/s40537-016-0043-6.pdf>`_
