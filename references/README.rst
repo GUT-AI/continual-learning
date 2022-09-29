@@ -57,6 +57,9 @@ Meta Learning
 
 - `Meta-Learning in Neural Networks: A Survey <https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9428530>`_
 
+Multitask Learning
+------------------
+
 Transfer Learning
 -----------------
 
