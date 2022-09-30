@@ -62,6 +62,8 @@ See `Memory Bottleneck <https://github.com/GUT-AI/memory-bottleneck/blob/master/
 Causal Learning
 ---------------
 
+See also `Awesome-explainable-AI <https://github.com/wangyongjie-ntu/Awesome-explainable-AI>`_ and `Awesome XAI <https://github.com/altamiracorp/awesome-xai>`_.
+
 Meta Learning
 -------------
 
