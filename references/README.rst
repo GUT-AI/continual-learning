@@ -56,6 +56,27 @@ Explainable AI (XAI)
 
 See also `Awesome-explainable-AI <https://github.com/wangyongjie-ntu/Awesome-explainable-AI>`_ and `Awesome XAI <https://github.com/altamiracorp/awesome-xai>`_.
 
+**2018**
+
+- ` <>`_
+
+**2019**
+
+- ` <>`_
+
+**2020**
+
+- `Explainable Reinforcement Learning: A Survey <https://arxiv.org/pdf/2005.06247.pdf>`_
+- `Explainable Machine Learning for Scientific Insights and Discoveries <https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9007737>`_
+
+**2021**
+
+- `Principles and Practice of Explainable Machine Learning <https://www.frontiersin.org/articles/10.3389/fdata.2021.688969/full>`_
+
+**2022**
+
+- `A Survey of Explainable Reinforcement Learning <https://arxiv.org/pdf/2202.08434.pdf>`_
+
 Memory Bottleneck
 -----------------
 
