@@ -54,6 +54,8 @@ Intra-Agent Transfer Learning in RL
 Explainable AI (XAI)
 --------------------
 
+See also `Awesome-explainable-AI <https://github.com/wangyongjie-ntu/Awesome-explainable-AI>`_ and `Awesome XAI <https://github.com/altamiracorp/awesome-xai>`_.
+
 Memory Bottleneck
 -----------------
 
@@ -62,7 +64,17 @@ See `Memory Bottleneck <https://github.com/GUT-AI/memory-bottleneck/blob/master/
 Causal Learning
 ---------------
 
-See also `Awesome-explainable-AI <https://github.com/wangyongjie-ntu/Awesome-explainable-AI>`_ and `Awesome XAI <https://github.com/altamiracorp/awesome-xai>`_.
+**2017**
+
+- `Elements of Causal Inference: Foundations and Learning Algorithms <https://library.oapen.org/bitstream/handle/20.500.12657/26040/11283.pdf>`_
+
+**2019**
+
+- `Causal Discovery with Reinforcement Learning <https://arxiv.org/pdf/1906.04477.pdf>`_
+
+**2021**
+
+- `Towards Causal Representation Learning <https://arxiv.org/pdf/2102.11107.pdf>`_
 
 Meta Learning
 -------------
