@@ -94,7 +94,7 @@ Multitask Learning
 
 **2020**
 
-- `Multi-Task Learning with Deep Neural Networks: A Survey <https://arxiv.org/pdf/2009.09796.pdf>_
+- `Multi-Task Learning with Deep Neural Networks: A Survey <https://arxiv.org/pdf/2009.09796.pdf>`_
 
 Transfer Learning
 -----------------
