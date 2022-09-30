@@ -59,10 +59,12 @@ See also `Awesome-explainable-AI <https://github.com/wangyongjie-ntu/Awesome-exp
 **2018**
 
 - ` <>`_
+- ` <>`_
 
 **2019**
 
-- ` <>`_
+- `Definitions, methods, and applications in interpretable machine learning <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6825274/pdf/pnas.201900654.pdf>`_
+- `Machine Learning Interpretability: A Survey on Methods and Metrics <https://www.mdpi.com/2079-9292/8/8/832>`_
 
 **2020**
 
