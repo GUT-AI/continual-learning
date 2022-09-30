@@ -58,8 +58,8 @@ See also `Awesome-explainable-AI <https://github.com/wangyongjie-ntu/Awesome-exp
 
 **2018**
 
-- ` <>`_
-- ` <>`_
+- `Peeking inside the black-box: a survey on explainable artificial intelligence (XAI) <https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8466590>`_
+- `Explaining Explanations: An Overview of Interpretability of Machine Learning <https://arxiv.org/pdf/1806.00069.pdf>`_
 
 **2019**
 
