@@ -84,6 +84,18 @@ Meta Learning
 Multitask Learning
 ------------------
 
+**2017**
+
+- `An Overview of Multi-task Learning in Deep Neural Networks <https://arxiv.org/pdf/1706.05098.pdf>`_
+
+**2019**
+
+- `Meta-World: A Benchmark and Evaluation for Multi-task and Meta Reinforcement Learning <https://arxiv.org/pdf/1910.10897.pdf>`_
+
+**2020**
+
+- `Multi-Task Learning with Deep Neural Networks: A Survey <https://arxiv.org/pdf/2009.09796.pdf>_
+
 Transfer Learning
 -----------------
 
