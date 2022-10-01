@@ -9,7 +9,7 @@ Continual Learning
   :target: LICENSE
   :alt: License
 
-.. image:: https://img.shields.io/badge/DOI-10.31219%2Fosf.io%2Fnxzyr-blue
+.. image:: https://img.shields.io/badge/DOI-10.31219%2Fosf.io%2Ftebpn-blue
   :target: CITATION.cff
   :alt: DOI
 
@@ -54,7 +54,7 @@ Thanks to OSF (by the `Center for Open Science <https://www.cos.io/>`_), the pro
 Component DOI
 ^^^^^^^^^^^^^
 
-**Project identifier:** https://doi.org/10.17605/OSF.IO/NXZYR
+**Project identifier:** https://doi.org/10.17605/OSF.IO/TEBPN
 
 Component dependencies
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -94,7 +94,7 @@ If you want to do so, feel free to `cite <CITATION.cff>`_ this component in your
       journal = {OSF Preprints},
       title = {Continual Learning},
       year = {2022},
-      doi = {10.17605/osf.io/nxzyr},
+      doi = {10.17605/osf.io/tebpn},
       license = {Creative Commons Zero CC0 1.0}
     }
 
