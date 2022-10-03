@@ -16,6 +16,10 @@ References
 Automated Model Retraining
 --------------------------
 
+**2017**
+
+- `Overcoming catastrophic forgetting in neural networks <https://www.pnas.org/doi/full/10.1073/pnas.1611835114>`_
+
 **2018**
 
 - `Reinforced Continual Learning <https://arxiv.org/pdf/1805.12369.pdf>`_
