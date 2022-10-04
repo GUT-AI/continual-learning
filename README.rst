@@ -73,10 +73,10 @@ Datasets
 
 See `Datasets <https://github.com/GUT-AI/gut-ai/blob/master/README.rst>`_.
 
-Model Zoos
-^^^^^^^^^^
+Model Zoo
+^^^^^^^^^
 
-See `Model Zoos <https://github.com/GUT-AI/gut-ai/blob/master/model_zoos/README.rst>`_.
+See `Model Zoo <https://github.com/GUT-AI/gut-ai/blob/master/model_zoo/README.rst>`_.
 
 Getting involved
 ----------------
