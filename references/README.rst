@@ -29,6 +29,7 @@ Automated Model Retraining
 - `Continual learning with hypernetworks <https://arxiv.org/pdf/1906.00695.pdf>`_
 - `Continual Lifelong Learning with Neural Networks: A Review <https://arxiv.org/pdf/1802.07569.pdf>`_
 - `Continual Learning with Neural Networks: A Review <https://www.cse.iitb.ac.in/~awasthi/pdf/continual_learning_short_survey_2019.pdf>`_
+- `Continual Learning in Practice <https://arxiv.org/pdf/1903.05202.pdf>`_
 
 **2020**
 
