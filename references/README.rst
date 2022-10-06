@@ -41,7 +41,7 @@ Automated Model Retraining
 - `Recent Advances of Continual Learning in Computer Vision: An Overview <https://arxiv.org/pdf/2109.11369.pdf>`_
 - `A continual learning survey: Defying forgetting in classification tasks <https://arxiv.org/pdf/1909.08383.pdf>`_
 
-**2021**
+**2022**
 
 - `Architecture Matters in Continual Learning <https://arxiv.org/pdf/2202.00275.pdf>`_
 
