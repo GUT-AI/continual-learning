@@ -13,6 +13,8 @@ References
 
 |
 
+See also `Continual Learning Literature <https://github.com/optimass/continual_learning_papers>`_
+
 Automated Model Retraining
 --------------------------
 
